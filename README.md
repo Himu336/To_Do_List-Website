@@ -12,7 +12,7 @@ Welcome to my To-Do-List Website repository! This project showcases my skills an
 
 ## Demo
 
-You can view the live demo of my portfolio [here](https://to-do-list-website-phi.vercel.app/).
+You can view the live demo of my website [here](https://to-do-list-website-phi.vercel.app/).
 
 ## Features
 
@@ -45,7 +45,7 @@ To get a copy of my To-Do-List website up and running on your local machine, fol
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Himu336/Personal-Portfolio-1.git
+    git clone https://github.com/Himu336/To_Do_List-Website.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
