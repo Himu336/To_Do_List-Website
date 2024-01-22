@@ -16,10 +16,6 @@ You can view the live demo of my website [here](https://to-do-list-website-phi.v
 
 ## Features
 
-# To-Do List Projects
-
-## Features
-
 ### 1. **Easy to Use**
    - Enjoy a simple and friendly design for a hassle-free experience.
    - Quick and straightforward task creation and project management.
